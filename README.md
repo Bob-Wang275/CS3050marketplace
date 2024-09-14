@@ -19,6 +19,8 @@ Product reviews
 2. Java
 
 ### Front Ends:
+1. HTML
+2. Javascript
 
 ## External components:
 1. Stripe (for payment integrations)
